@@ -46,10 +46,8 @@ The project uses the following libraries:
 
 ## Screenshots
 ### Home Screen
-![Home Screen](assets/home_screen.png)
-
-### Article Screen
-![Article Screen](assets/article_screen.png)
+![Home Screen](![Screenshot (78)](https://github.com/user-attachments/assets/e52cd807-e42f-4c1b-892b-a0a86c18cab8)
+)
 
 ## Customization
 You can customize the application by:
